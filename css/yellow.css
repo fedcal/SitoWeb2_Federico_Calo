@@ -1,0 +1,36 @@
+.aside .logo a::before{
+    border-top: 4px solid #bcbe38;
+    border-left: 4px solid #bcbe38;
+}
+.aside .logo a::after{
+    border-bottom: 4px solid #bcbe38;
+    border-right: 4px solid #bcbe38;
+}
+.aside .nav li a:hover,
+.contact .contact-info-item .icon .fab, 
+.contact .contact-info-item .icon .fas,
+.portfolio .portfolio-item .portfolio-info .icon .fab,
+.portfolio .portfolio-filter button.active, 
+body.dark .portfolio .portfolio-filter button.active, 
+.aside .nav li a.active,
+body.dark .aside .nav li a.active,
+body.dark .aside .nav li a:hover,
+.about .about-content .about-text h3 span{
+    color:#bcbe38;
+}
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span, 
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-link a,
+.about .about-content .skills .skill-item .progress .progress-in,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .timeline .circle-dot{
+    background-color: #bcbe38;
+}
+body.dark .portfolio .portfolio-filter button.active,
+.portfolio .portfolio-filter button.active.active{
+    border-color: #bcbe38;
+}

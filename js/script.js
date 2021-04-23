@@ -1,3 +1,11 @@
+window.addEventListener("load", function(){
+    
+    document.querySelector(".preloader").classList.add("opacity-0");
+    setTimeout(function(){
+        document.querySelector(".preloader").style.display="none ";
+    },1000)
+})
+
 const filterContainer= document.querySelector(".portfolio-filter"), 
       filterBtns=filterContainer.children,
       totalFilterBtn=filterBtns.length,

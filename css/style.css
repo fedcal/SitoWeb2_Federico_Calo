@@ -669,6 +669,20 @@ body{
     cursor: pointer;
     border-radius: 5px 0 0 5px; 
 }
+.about .about-content .timeline .timeline-item a{
+    font-size: 16px;
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+    padding: 12px 12px;
+    color:#5f5252;
+    border-radius: 15px ;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    display: inline-block;
+    white-space: nowrap;
+    color: white;
+    margin-top: 15px;
+}
 
 .style-switcher .toggle-style-switcher .fas{
     font-size: 20px;

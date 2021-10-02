@@ -13,6 +13,10 @@
         <image:title>Progetto universitario sviluppato in Java. Il progetto consisteva nel realizzare un Regression Tree.</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://federicocalo.it/PortfolioTamplate1.JPG</image:loc>
+        <image:title>Portfolio Tamplate 1</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://federicocalo.it/css/img/snake.jpg</image:loc>
         <image:title>Gioco Snake programmato interamente in Python.</image:title>
       </image:image>

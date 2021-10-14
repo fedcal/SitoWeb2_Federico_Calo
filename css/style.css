@@ -142,12 +142,12 @@ body{
     -webkit-transform:scale(1.05);
     transform:scale(1.05 );
 }
-.translate-btn{
+.aside .translate-btn{
 
     margin-bottom: 20px;    
 }
 
-.translate-btn .btn{
+.aside .translate-btn .btn{
     font-size: 14px;
     font-family: 'Rubik',sans-serif;
     font-weight: 500;
@@ -160,7 +160,7 @@ body{
     white-space: nowrap;
 }
 
-.translate-btn .btn:hover{
+.aside .translate-btn .btn:hover{
     -webkit-transform:scale(1.05);
     transform:scale(1.05 );
 }

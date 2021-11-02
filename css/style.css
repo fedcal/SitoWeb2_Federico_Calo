@@ -1067,6 +1067,7 @@ body.dark .shadow-dark{
 }
 
 @media(max-width:767px){
+    .blog .blog-item,
     .interessi .interessi-item,
     .about .about-content .experience,
     .about .about-content .education,

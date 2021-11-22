@@ -971,7 +971,7 @@ body.dark .shadow-dark{
     transform: translateX(20px);
     opacity: 0;
 }
-.portfolio .portfolio-item .portfolio-info .icon .fab{
+.portfolio .portfolio-item .portfolio-info .icon .fab, .portfolio .portfolio-item .portfolio-info .icon .fas{
     line-height: 40px;
 }
 .portfolio .container{
